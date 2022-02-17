@@ -1,0 +1,297 @@
+body {
+    background-image: url("cover3.png");    
+    background-position-x: center ;
+    background-position-y: center ;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    font-family: verdana;
+
+}
+.container-fluid{
+    background: #FFE5D3;
+    background-size: cover;
+}
+
+.dropdown-item:hover{
+    background: #FFE5D3;
+}
+
+.text{
+    opacity: 0;
+}
+.navbar
+{
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+}
+h1
+{
+    font-family: Edwardian Script ITC;
+    font-size: 140px;
+}
+
+
+.box1{
+    height: 150px;
+    width: 150px;       
+    float: left;
+    display: block;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-image: url(FacialRoller.jpg);
+    background-size: cover;
+}
+.box1:hover{
+    transform: translateY(0) scale(1.4);
+}
+
+.box1:hover .text{
+    opacity: 1;
+    text-align: center;
+    
+}
+.box2{
+    height: 150px;
+    width: 150px;       
+    float: left;
+    display: block;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-image: url(FacialRoller2.jpg);
+    background-size: cover;
+        
+       
+}
+.box2:hover{
+    transform: translateY(0) scale(1.4);
+}
+
+.box2:hover .text{
+    opacity: 1;
+    text-align: center;
+    
+    
+}
+.box3{
+    height: 150px;
+    width: 150px;      
+    float: left;
+    display: block;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-image: url(FacialRoller3.jpg);
+    background-size: cover;
+    background-size: 40%;
+    background-repeat: no-repeat;   
+}
+.box3:hover{
+    transform: translateY(0) scale(1.4);
+}
+
+
+.box3:hover .text{
+    opacity: 1;
+    text-align: center;
+    
+}
+.box4{
+    height: 150px;
+    width: 150px;      
+    float: left;
+    display: block;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-image: url(HairBrush.jpg);     
+    background-size: 40%;
+    background-repeat: no-repeat;
+    
+       
+}
+.box4:hover{
+    transform: translateY(0) scale(1.4);
+}
+
+
+.box4:hover .text{
+    opacity: 1;
+    text-align: center;
+    
+}
+.box5{
+    height: 150px;
+    width: 150px;       
+    float: left;
+    display: block;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-image: url(ShaveCreme.jpg);       
+    background-size: 40%;
+    background-repeat: no-repeat;
+    
+}
+.box5:hover{
+    transform: translateY(0) scale(1.4);
+}
+
+.box5:hover .text{
+    opacity: 1;
+    text-align: center;
+    
+}
+.box6{
+    height: 150px;
+    width: 150px;       
+    float: left;
+    display: block;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-image: url(SheaButter.jpg);
+    background-size: cover;    
+       
+}
+.box6:hover{
+    transform: translateY(0) scale(1.4);
+}
+
+.box6:hover .text{
+    opacity: 1;
+    text-align: center;
+    
+}
+.box7{
+    height: 150px;
+    width: 150px;   
+    float: left;
+    display: block;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-image: url(SkinCreamery.jpg);
+    background-size: cover;    
+       
+}
+.box7:hover{
+    transform: translateY(0) scale(1.4);
+}
+
+.box7:hover .text{
+    opacity: 1;
+    text-align: center;
+    
+}
+.box8{
+    height: 150px;
+    width: 150px;       
+    float: left;
+    display: block;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-image: url(VeganBodyBrush.jpg);
+    background-size: cover;    
+       
+}
+.box8:hover{
+    transform: translateY(0) scale(1.4);
+}
+
+.box8:hover .text{
+    opacity: 1;
+    text-align: center;
+    
+}
+.box9{
+    height: 150px;
+    width: 150px;    
+    float: left;
+    display: block;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-image: url(FacialRoller.jpg);
+    background-size: cover;    
+       
+}
+.box9:hover{
+    transform: translateY(0) scale(1.4);
+}
+
+.box9:hover .text{
+    opacity: 1;
+    text-align: center;
+    
+}
+.box10{
+    height: 150px;
+    width: 150px;     
+    float: left;
+    display: block;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-image: url(FacialRoller.jpg);
+    background-size: cover;    
+       
+}
+.box10:hover{
+    transform: translateY(0) scale(1.4);
+}
+
+.box10:hover .text{
+    opacity: 1;
+    text-align: center;
+    
+}
+.box11{
+    height: 150px;
+    width: 150px;       
+    float: left;
+    display: block;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-image: url(FacialRoller.jpg);
+    background-size: cover;    
+       
+}
+.box11:hover{
+    transform: translateY(0) scale(1.4);
+}
+
+.box11:hover .text{
+    opacity: 1;
+    text-align: center;
+    
+}
+.box12{
+    height: 150px;
+    width: 150px;       
+    float: left;
+    display: block;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-image: url(FacialRoller.jpg);
+    background-size: cover;    
+       
+}
+.box12:hover{
+    transform: translateY(0) scale(1.4);
+}
+
+.box12:hover .text{
+    opacity: 1;
+    text-align: center;
+    
+}
